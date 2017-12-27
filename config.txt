@@ -12,8 +12,8 @@
  */
 "pool_list" :
 [
-        {"pool_address" : "xmr-usa.dwarfpool.com:8005", "wallet_address" : "45Cd3FD3oN6VfoBkG6T6WrBqLGQ4UeetnNpv1bzjyK5RA3buc9FyfSzPk1oKaiC16E5chb5dBXAdc1C3oQw57UBbMzn9svb.monerodocker", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 100 },
-        {"pool_address" : "xmr-eu.dwarfpool.com:8005", "wallet_address" : "45Cd3FD3oN6VfoBkG6T6WrBqLGQ4UeetnNpv1bzjyK5RA3buc9FyfSzPk1oKaiC16E5chb5dBXAdc1C3oQw57UBbMzn9svb.monerodocker", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+        {"pool_address" : "xmr-usa.dwarfpool.com:8005", "wallet_address" : "45Cd3FD3oN6VfoBkG6T6WrBqLGQ4UeetnNpv1bzjyK5RA3buc9FyfSzPk1oKaiC16E5chb5dBXAdc1C3oQw57UBbMzn9svb.monerodocker", "pool_password" : "tvdias1+dwarf@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 100 },
+        {"pool_address" : "xmr-eu.dwarfpool.com:8005", "wallet_address" : "45Cd3FD3oN6VfoBkG6T6WrBqLGQ4UeetnNpv1bzjyK5RA3buc9FyfSzPk1oKaiC16E5chb5dBXAdc1C3oQw57UBbMzn9svb.monerodocker", "pool_password" : "tvdias1+dwarf@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
